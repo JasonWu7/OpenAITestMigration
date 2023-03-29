@@ -11,10 +11,6 @@ This is a test migration tool that based on OpenAI API and [quickstart tutorial]
 
 3. Navigate into the project directory
 
-   ```bash
-   $ cd openai-quickstart-node
-   ```
-
 4. Install the requirements
 
    ```bash
